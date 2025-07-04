@@ -15,10 +15,10 @@ Exchange rate Movement, Productivity, and Emission Intensity: Firm-level Evidenc
 
 
 ## Awards and Scholarships
-MSc (Econ) Scholarship for Research Concentration, HKUST, 2025
-MSc (Econ) Admission Scholarship, HKUST, 2024
-Jingdong Scholarship, Beijing Normal University, 2023
-First-Class Academic Scholarship, Beijing Normal University, 2023
+MSc (Econ) Scholarship for Research Concentration, HKUST, 2025<br/>
+MSc (Econ) Admission Scholarship, HKUST, 2024<br/>
+Jingdong Scholarship, Beijing Normal University, 2023<br/>
+First-Class Academic Scholarship, Beijing Normal University, 2023<br/>
 
 
 

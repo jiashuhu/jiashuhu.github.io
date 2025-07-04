@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiashu Hu"
+title                    : "Jiashu Hu's Homepage"
 title_separator          : "-"
 name                     : &name "Jiashu Hu"
 description              : &description "personal description"

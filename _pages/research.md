@@ -11,7 +11,14 @@ revise and resubmit, ***China Economic Review***, 2025<br/>
 *Presentations:* The 7th Forum of International Economics Frontier, China Economics Annual Conference 2024, SWUFE 2025
 
 Exchange rate Movement, Productivity, and Emission Intensity: Firm-level Evidence from China (with Mi Dai and Bing Lu)<br/>
-*Presentations:*
+*Presentations:* The 2024 Annual Conference of China Society of World Economics, The 11th International Conference on the Chinese Economy
+
+
+## Awards and Scholarships
+MSc (Econ) Scholarship for Research Concentration, HKUST, 2025
+MSc (Econ) Admission Scholarship, HKUST, 2024
+Jingdong Scholarship, Beijing Normal University, 2023
+First-Class Academic Scholarship, Beijing Normal University, 2023
 
 
 

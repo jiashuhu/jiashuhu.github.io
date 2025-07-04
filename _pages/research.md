@@ -1,7 +1,7 @@
 ---
 title: Research
 permalink: 
-- /research.html
+- /research/
 
 ---
 

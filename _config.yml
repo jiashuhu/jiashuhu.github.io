@@ -29,7 +29,7 @@ author:
   location         : "Hong Kong SAR, China"
   employer         : "HKUST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # "none@example.org" 
 
   # Academic websites
   academia         : # URL

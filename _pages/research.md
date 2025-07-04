@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-sidebar: false
+show_sidebar: false
 ---
 
 

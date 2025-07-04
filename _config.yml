@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jiashu Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR, China"
   employer         : "HKUST"
   uri              : # URL

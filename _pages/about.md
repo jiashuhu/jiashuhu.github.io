@@ -9,6 +9,9 @@ redirect_from:
 
 I am a PhD student at the Hong Kong University of Science and Technology. Before that, I obtained MSc in Economics at HKUST. I study International Trade and Finance.
 
+Address: Clear Water Bay, Kowloon, NT, Hong Kong
+Email: jiashu.hu\[at\]connect.ust.hk
+
 
 Publications
 ------

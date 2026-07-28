@@ -11,7 +11,7 @@ I am a PhD student at the Hong Kong University of Science and Technology. Before
 
 **Address**: Clear Water Bay, Kowloon, NT, Hong Kong
 
-**Email**: jiashu.hu\[at\]connect.ust.hk
+**Email**: jiashu\[dot\]hu\[at\]connect\[dot\]ust\[dot\]hk
 
 
 Publications

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Hong Kong University of Science and Technology. Before that, I obtained MSc in Economics at HKUST. I study International Trade and Finance.
+I am a Master's student at the Hong Kong University of Science and Technology. I study International Trade and Corporate Finance, with a special focus on AI in Finance. Please find my [CV]() here.
 
 **Address**: Clear Water Bay, Kowloon, NT, Hong Kong
 

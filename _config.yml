@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jiashu (Joshua) Hu"
 title_separator          : "-"
 name                     : &name "Jiashu Hu"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Jiashu Hu (胡嘉树)"
   pronouns         : # example: "he/him"  
-  bio              : "PhD in Economics"
+  bio              : "Hong Kong University of Science and Technology"
   location         : "Hong Kong, China"
-  employer         : "HKUST"
+  employer         : # "HKUST"
   uri              : # URL
   email            : # "my.email.address@gmail.com" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

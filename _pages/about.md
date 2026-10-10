@@ -20,4 +20,4 @@ Publications
 
 Working Papers
 ------
-* The Unintended Decarbonization Effect of Exchange Rate Appreciation: Firm-Level Evidence from China (with Mi Dai and Bing Lu)
+* The Unintended Decarbonization Effect of Exchange Rate Appreciation: Firm-Level Evidence from China (with Mi Dai and Bing Lu), 2024

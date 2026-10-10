@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Jiashu (Joshua) Hu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student in Accounting at the [University of Melbourne](https://www.unimelb.edu.au/). You can find my [CV]() here.
+I am a PhD student in Accounting at the Business School, [University of Melbourne](https://www.unimelb.edu.au/). You can find my [CV]() here.
 
 <!--**Address**: Clear Water Bay, Kowloon, NT, Hong Kong -->
 
@@ -20,4 +20,4 @@ Publications
 
 Working Papers
 ------
-To be available.
+* The Unintended Decarbonization Effect of Exchange Rate Appreciation: Firm-Level Evidence from China (with Mi Dai and Bing Lu)

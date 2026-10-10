@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Good to see you! I am a PhD student in Accounting at the University of Melbourne Business School. I work in AI and Finance, with a special focus on Alternative Data. You can find my [CV]() here.
+Good to see you! I am a PhD student in Accounting at the University of Melbourne Business School. I work in AI and Finance, with a special focus on alternative data. You can find my [CV]() here.
 
 <!--**Address**: Clear Water Bay, Kowloon, NT, Hong Kong -->
 

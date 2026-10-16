@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Good to see you! I am a PhD student in Accounting at the University of Melbourne Business School. I work in AI and Finance, with a special focus on alternative data. You can find my [CV]() here.
+Welcome! I am a PhD student in Accounting at the University of Melbourne Business School. I work in AI and Finance, with a special focus on alternative data. You can find my [CV]() here.
 
-<!--**Address**: Clear Water Bay, Kowloon, NT, Hong Kong -->
+**Address**: 198 Berkeley Street, Carlton VIC 3010, Australia
 
-<!--**Email**: jiashu\[dot\]hu\[at\]connect\[dot\]ust\[dot\]hk -->
+**Email**: jiashu.hu.1 at student.unimelb.edu.au
 
 
 Publications
